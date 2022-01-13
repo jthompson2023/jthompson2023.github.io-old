@@ -22,6 +22,8 @@ Following a pretty substantial cognitive science literature, I use a method call
 
 This works, and it works really well. I can still remember exactly how signals are sent between neurons, how inhibitory, excitatory, and neuromodulatory signals are sent, and what basic characteristics all neurotransmitters share, from a book I read six months ago. I used to use physical flashcards for this, but now I use the spaced repetition app [Anki](https://apps.ankiweb.net) along with my usual notes.
 
+[IMAGES TO COME]
+
 If you're curious about this system, there's no better way to learn about this than the interactive article that got *me* started on spaced repetition [here](https://ncase.me/remember)... *which you should __really really__ read when you get the chance.*
 
 ## Documentation
