@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Reading "These Truths" by Jill Lepore
+title:  Reading These Truths by Jill Lepore
 tags: US-history
 ---
 
