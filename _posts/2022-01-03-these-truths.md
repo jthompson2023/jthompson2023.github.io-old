@@ -15,6 +15,4 @@ When I read this book, I work in a three-step process:
 
 ## How it's going
 
-I've covered the first main segment of the book, from first European landfall in 1492 to the election of 1800. That doesn't sound like a lot for being halfway done with a study in US History, but I've spend a lot of time on external research projects relating to the [essay]({{site.baseurl}}) about justification of beliefs that I'm working on.
-
-Next semester, since I've had my fun with lots of external research, I'll concentrate on making my way through the book at a steadier pace, and plan to finish it by the end of the year!
+I've covered the first main segment of the book, from first European landfall in 1492 to the election of 1800. That doesn't sound like a lot for being halfway done with a study in US History, but I've spend a lot of time on external research projects relating to the [essay]({{site.baseurl}}) about justification of beliefs that I'm working on. Next semester, since I've had my fun with lots of external research, I'll concentrate on making my way through the book at a steadier pace, and plan to finish it by the end of the year!
