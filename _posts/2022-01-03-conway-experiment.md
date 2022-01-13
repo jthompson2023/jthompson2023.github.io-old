@@ -4,8 +4,6 @@ title:  Conway's Game of Life Experiment
 tags: statistics
 ---
 
-[IMAGES TO COME]
-
 Last year, I spent a good chunk of my project in economics programming simulations and conducting experiments. This year, I thought I'd continue that trend for statistics, and use the new statistical tools I'd been learning to analyze those experiments more rigorously.
 
 I spent this first semester working on an experiment about [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - modifying the rules, trying different scenarios, and observing the effects on the lifeforms that grow there. Below, you can see:

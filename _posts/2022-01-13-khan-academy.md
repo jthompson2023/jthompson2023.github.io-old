@@ -16,10 +16,15 @@ In my experience, Khan Academy videos usually fall into one of two categories:
 
 1. __Instruction__ videos introduce new concepts, techniques, and proofs. I usually watch these through all the way, then take down [notes](../notes) on all the new stuff I learned. I don't usually have to refer back to these notes very often - it's the process of taking quality, explanatory notes that helps me.
 
-2. __Worked example__ videos pose practice problems and situations in which to use the stuff we learn in instruction videos, and work through how to solve the problems. As Sal encourages, I always pause the video and try to work out my own answers to the problems first, then watch how he does it and take note of any mistakes I made in the process. Khan Academy also has practice problems and tests for all this stuff, though I've been supplementing them with problems from [CK-12]({{site.baseurl}}) as well.
+2. __Worked example__ videos pose practice problems and situations in which to use the stuff we learn in instruction videos, and work through how to solve the problems. As Sal encourages, I always pause the video and try to work out my own answers to the problems first, then watch how he does it and take note of any mistakes I made in the process. Khan Academy also has practice problems and tests for all this stuff, though I've been supplementing them with problems from [CK-12](https://www.ck12.org/assessment/ui/build-20211220180129/browse/practice/) as well:
 
-[IMAGES TO COME]
+<img src="/assets/ck12.png">
+*ck12*
 
 Below are some progress screenshots of that work. I haven't been all that focused on Khan Academy's "mastery system" so far, because I've mostly been working through the content for one big unit:
 
-[IMAGES TO COME]
+<img src="/assets/ka_composites.png">
+*composite functions*
+
+<img src="/assets/ka_trig.png">
+*trigonometry*
